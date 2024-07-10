@@ -17,10 +17,12 @@ Based on formulations,
 Staffing scenario 1:
     - The total employees needed for staffing scenario 1 per day: 86.
     - The total operational costs associated with the FT/PT agents per day: $4,635.
+
 Staffing scenario 2:
     - The total employees needed for staffing scenario 2 per day: 80.
     - The total operational costs associated with the FT/PT agents per day: $4,640.
-Staffing scenario 1:
+
+Staffing scenario 3:
     - The total employees needed for staffing scenario 3 per day: 78.
     - The total operational costs associated with the FT/PT agents per day: $4,537.53.
 
